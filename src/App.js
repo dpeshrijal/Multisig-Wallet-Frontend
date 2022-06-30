@@ -16,7 +16,7 @@ function App() {
   const [connectText, setConnectText] = useState("Connect Wallet");
   const [displayText, setDisplayText] = useState("Connect To Metamask");
 
-  const contractAddress = "0x3b9C5427D3a8E7552D4524BCFDfAeb81B62019fC";
+  const contractAddress = "0xb5a1bf76A0822245b4bfCF12feB6fD6866F2F5EB";
   const ABI = abi.abi;
 
   const web3Handler = async () => {
