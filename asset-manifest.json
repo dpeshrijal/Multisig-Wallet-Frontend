@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Multisig-Wallet-Frontend/static/css/main.eaa2fff5.css",
+    "main.js": "/Multisig-Wallet-Frontend/static/js/main.fba186bf.js",
+    "index.html": "/Multisig-Wallet-Frontend/index.html",
+    "main.eaa2fff5.css.map": "/Multisig-Wallet-Frontend/static/css/main.eaa2fff5.css.map",
+    "main.fba186bf.js.map": "/Multisig-Wallet-Frontend/static/js/main.fba186bf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eaa2fff5.css",
+    "static/js/main.fba186bf.js"
+  ]
+}
